@@ -2,4 +2,5 @@
 void main()
 {
 printf("hello Amin shaikh")
+printf("this is updated")
 }
